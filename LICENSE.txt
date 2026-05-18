@@ -1,0 +1,67 @@
+=======================================================================
+               POVswim Software License Agreement (EULA)
+=======================================================================
+Copyright (C) 2026 LHY1339. All Rights Reserved.
+
+This GitHub repository does NOT provide any source code. It is used 
+exclusively for binary executable distribution, updates, and product 
+demonstration. 
+
+This software is PROPRIETARY and CLOSED-SOURCE. It is NOT open-source 
+software. By downloading, installing, or running this software, you 
+agree to be bound by the following terms:
+
+1. License Grant
+   - This license only grants the user the right to use the compiled 
+     binary executable (loader.exe) for personal, non-commercial use.
+   - This license does NOT grant, imply, or include any rights to 
+     obtain, view, or modify the source code of this software.
+
+2. Restrictions on Reverse Engineering
+   - You are strictly prohibited from reverse engineering, decompiling, 
+     disassembling, unpacking, or debugging the binary files (.exe/.dll) 
+     provided in this repository.
+   - Any attempt to extract, intercept, or analyze the hardcoded keys, 
+     internal validation logic, or memory modification offsets is a 
+     direct violation of this agreement.
+
+3. No Redistribution
+   - Redistribution, re-uploading, or hosting of this software on any 
+     unauthorized file-sharing platforms, cloud drives, forums, or 
+     third-party channels without the express written consent of the 
+     original author is strictly prohibited.
+   - You may not modify, alter, or remove the author's copyright 
+     information, company name, icons, or this license text.
+
+4. Revocation of Key
+   - Any behavior involving unauthorized propagation, cracking attempts, 
+     or fraudulent refunding will result in the immediate and permanent 
+     revocation (ban) of your license key without prior notice.
+
+5. Disclaimer of Warranty & Liability (CRITICAL)
+   - THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. 
+     THE AUTHOR DOES NOT GUARANTEE THAT THE SOFTWARE WILL MEET YOUR 
+     REQUIREMENTS OR THAT ITS OPERATION WILL BE UNINTERRUPTED OR 
+     UNDETECTABLE BY ANY ANTI-CHEAT SYSTEMS.
+   - IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY GAME ACCOUNT BANS, 
+     RESTRICTIONS, DATA LOSS, OR ANY OTHER DIRECT OR INDIRECT DAMAGES 
+     ARISING FROM THE USE OF THIS SOFTWARE. YOU USE IT ENTIRELY AT 
+     YOUR OWN RISK.
+
+=======================================================================
+  BY USING THIS PROGRAM, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, 
+          AND AGREE TO BE BOUND BY ALL THE TERMS AND CONDITIONS.
+=======================================================================
+
+=======================================================================
+                    POVswim 软件许可协议 (Non-Open Source)
+=======================================================================
+版权所有 (C) 2026 LHY1339。保留所有权利。
+
+本 GitHub 仓库不提供任何源代码，仅用于程序成品发布与技术展示。
+本软件为专有闭源软件，非开源项目。
+
+1. 严禁对本仓库提供的二进制程序（.exe/.dll）进行逆向工程、反编译或破解。
+2. 未经原作者书面授权，严禁任何个人或组织对本程序成品进行二次分发、打包或商业牟利。
+3. 任何恶意退款、倒卖行为，其对应卡密将被自动注销。
+=======================================================================
