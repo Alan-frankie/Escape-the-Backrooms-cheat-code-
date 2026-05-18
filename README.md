@@ -6,3 +6,4 @@ An upgraded version of the LHY1339 editor, with more features under continuous d
 
 
 Publisher's official website (sponsored): [https://www.link3.cc/pxcom]
+# Keys will be given out periodically during the testing phase.
